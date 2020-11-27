@@ -1,0 +1,17 @@
+body{
+  background-color: #1e90ff;
+  color: #fff;
+  font-weight: bold;
+}
+form{
+  width: 70%;
+  margin: 0.1px auto;
+}
+h1{
+  text-align: center;
+}
+#submit{
+  color: #fff;
+  padding: 5px;
+  background-color: tomato;
+}
